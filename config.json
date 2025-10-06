@@ -1,0 +1,24 @@
+{
+  "app_title": "Analyse des données de vissage",
+  "page_icon": "",
+  "numeric_columns": ["M[Nm]", "W[°]", "L[mm]", "VM[Nm]", "T[s]", "Cycle"],
+  "default_tabs": ["M[Nm]", "W[°]", "L[mm]", "VM[Nm]"],
+  "x_y_defaults": {
+    "x": "Cycle",
+    "y": "M[Nm]"
+  },
+  "plot_colors": {
+    "main_palette": "Set1",
+    "trendline": {
+      "color": "black",
+      "style": "dot"
+    }
+  },
+  "css_style": {
+    "max_width": "1200px",
+    "background_color": "#fafafa",
+    "sidebar_background": "#ecf0f1",
+    "font": "Helvetica Neue, Helvetica, Arial, sans-serif",
+    "text_color": "#2c3e50"
+  }
+}
